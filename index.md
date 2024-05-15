@@ -1,3 +1,6 @@
+
+
+
 ````
 $ git init
 Initialized empty Git repository in  /Users/skills/Projects/receipe-repository.git
@@ -6,3 +9,7 @@ Initialized empty Git repository in  /Users/skills/Projects/receipe-repository.g
 ````javascript
 var myVar = "Hello, World!";
 ````
+
+- [] This is the first task
+- [] In a task list
+- [] This is the third task
