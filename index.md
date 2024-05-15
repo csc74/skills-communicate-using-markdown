@@ -1,10 +1,8 @@
-![This is an image of somerthing called yaktocat](https://octodex.github.com/images/yaktocat.png)
+````
+$ git init
+Initialized empty Git repository in  /Users/skills/Projects/receipe-repository.git
+````
 
-
-# Header H1 
-
-## H2
-
-### H3
-
-#### H4    
+````javascript
+var myVar = "Hello, World!";
+````
