@@ -1,3 +1,3 @@
-- [] This is the first task
-- [] In a task list
-- [] This is the third task
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
